@@ -6,4 +6,4 @@ I'm using this opportunity to learn some new programming languages and brush up 
 
 ## Usage
 
-The challenges are listed as <daynumber><first/second>.  Within each challenge directory, you'll find a solution listed by language.
+The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each challenge directory, you'll find a solution listed by language.
