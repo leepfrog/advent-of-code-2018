@@ -7,3 +7,17 @@ I'm using this opportunity to learn some new programming languages and brush up 
 ## Usage
 
 The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each challenge directory, you'll find a solution listed by language.
+
+
+## Progress
+
+| | Ruby | Rust | Python | Javascript |
+|------|-----|-----|-----|-----|
+| Day 1a | x | x | x |   |
+| Day 1b |   |   |   |   |
+| Day 2a |   |   |   |   |
+| Day 2b |   |   |   |   |
+| Day 3a |   |   |   |   |
+| Day 3b |   |   |   |   |
+| Day 4a |   |   |   |   |
+| Day 4b |   |   |   |   |
