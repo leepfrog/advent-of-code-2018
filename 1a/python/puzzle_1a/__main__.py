@@ -1,7 +1,6 @@
 if __name__ == "__main__":
 
     import sys
-    import frequencer
     from frequencer import Frequencer
 
     if len(sys.argv) != 2:
