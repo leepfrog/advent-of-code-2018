@@ -16,7 +16,7 @@ The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each
 | | Ruby | Rust | Python | Node (TypeScript) |
 |------|-----|-----|-----|-----|
 | Day 1a | x | x | x | x |
-| Day 1b |   |   |   |   |
+| Day 1b | x |   |   |   |
 | Day 2a |   |   |   |   |
 | Day 2b |   |   |   |   |
 | Day 3a |   |   |   |   |
