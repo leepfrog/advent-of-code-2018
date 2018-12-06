@@ -13,9 +13,9 @@ The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each
 
 ## Progress
 
-| | Ruby | Rust | Python | Javascript |
+| | Ruby | Rust | Python | Node (TypeScript) |
 |------|-----|-----|-----|-----|
-| Day 1a | x | x | x |   |
+| Day 1a | x | x | x | x |
 | Day 1b |   |   |   |   |
 | Day 2a |   |   |   |   |
 | Day 2b |   |   |   |   |
@@ -25,6 +25,8 @@ The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each
 | Day 4b |   |   |   |   |
 
 # Random Thoughts / First Impressions
+
+- A lot of time being spent on skeleton project setup / dev environment / folder structures / etc...
 
 ### Rust
 - Really nice integration with VSCode, documentation, code completion, debugging
@@ -52,3 +54,8 @@ The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each
 - Testing doesn't feel as integrated as it does in Rust / other languages, but `python -m unittest discover` helps
 - Documentation was confusing on how to set up program for command line execution
 - The language itself is very simple to work with 
+
+### Node / TypeScript
+- It feels like TypeScript has really come a long way since I've used it last.  The addition of `tsc --init` is very nice for getting started quickly.
+- Using `ts-node` and `ts-mocha` makes typescript integration easy into mocha/node tests
+- Question: Still have questions about when @types are needed to be installed
