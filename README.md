@@ -17,7 +17,7 @@ The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each
 |------|-----|-----|-----|-----|
 | Day 1a | x | x | x | x |
 | Day 1b | x | x | x | x |
-| Day 2a |   |   |   |   |
+| Day 2a |   |   |   | X |
 | Day 2b |   |   |   |   |
 | Day 3a |   |   |   |   |
 | Day 3b |   |   |   |   |
@@ -28,6 +28,7 @@ The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each
 
 - A lot of time being spent on skeleton project setup / dev environment / folder structures / etc...
 - Would be nice to set up profilers to compare solutions between languages / projects, identify areas for improvement, etc...
+- Jumping between languages on the same problem is very slow (context switching), so I'm going to try out sticking to one language to catch up.
 
 ### Rust
 - Really nice integration with VSCode, documentation, code completion, debugging
