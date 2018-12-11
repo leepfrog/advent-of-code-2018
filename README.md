@@ -17,8 +17,8 @@ The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each
 |------|-----|-----|-----|-----|
 | Day 1a | x | x | x | x |
 | Day 1b | x | x | x | x |
-| Day 2a |   |   |   | X |
-| Day 2b |   |   |   |   |
+| Day 2a |   |   |   | x |
+| Day 2b |   |   |   | x |
 | Day 3a |   |   |   |   |
 | Day 3b |   |   |   |   |
 | Day 4a |   |   |   |   |
