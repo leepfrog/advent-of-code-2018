@@ -16,7 +16,7 @@ The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each
 | | Ruby | Rust | Python | Node (TypeScript) |
 |------|-----|-----|-----|-----|
 | Day 1a | x | x | x | x |
-| Day 1b | x |   |   |   |
+| Day 1b | x | x | x | x |
 | Day 2a |   |   |   |   |
 | Day 2b |   |   |   |   |
 | Day 3a |   |   |   |   |
@@ -27,6 +27,7 @@ The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each
 # Random Thoughts / First Impressions
 
 - A lot of time being spent on skeleton project setup / dev environment / folder structures / etc...
+- Would be nice to set up profilers to compare solutions between languages / projects, identify areas for improvement, etc...
 
 ### Rust
 - Really nice integration with VSCode, documentation, code completion, debugging
