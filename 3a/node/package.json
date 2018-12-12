@@ -1,0 +1,29 @@
+{
+  "name": "puzzle_3a",
+  "version": "1.0.0",
+  "description": "TypeScript / NodeJS version of puzzle 3a from Advent of Code",
+  "main": "src/index.ts",
+  "scripts": {
+    "puzzle_3a": "./node_modules/ts-node/dist/bin.js src/index.ts",
+    "test": "mocha -r ts-node/register test/**/*-spec.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leepfrog/advent-of-code-2018.git"
+  },
+  "author": "Andy Leeper <leepfrog@mochaleaf.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leepfrog/advent-of-code-2018/issues"
+  },
+  "homepage": "https://github.com/leepfrog/advent-of-code-2018#readme",
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^10.12.12",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "ts-mocha": "^2.0.0",
+    "typescript": "^3.2.1"
+  }
+}
