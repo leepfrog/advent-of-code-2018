@@ -20,7 +20,7 @@ The challenges are listed as &lt;daynumber&gt;&lt;first/second&gt;.  Within each
 | Day 2a |   |   |   | x |
 | Day 2b |   |   |   | x |
 | Day 3a |   |   |   | x |
-| Day 3b |   |   |   |   |
+| Day 3b |   |   |   | x |
 | Day 4a |   |   |   |   |
 | Day 4b |   |   |   |   |
 
